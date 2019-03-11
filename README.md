@@ -5,7 +5,7 @@ An OSX utility (SHELL script) for generating passwords out of real words contain
 
 Usage
 -----
-    Usage: genpass [OPTIONS] [WORD LENGTH (6)]
+    Usage: genpass [OPTIONS] [WORD LENGTH (5)]
 
     Options:
         -h, --help      Help as expected
