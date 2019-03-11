@@ -13,7 +13,7 @@ Usage
         -a, --about     Useless info
         -s, --stats     Stats from word dictionary
         
-By default `genpass` will generate a password consisting of words that contain 6 letters or less.  Additionally, it generates passwords with the pattern:
+By default `genpass` will generate a password consisting of words that contain 5 letters or less.  Additionally, it generates passwords with the pattern:
 
 *[WORD][WORD][NUMBER][WORD][SPECIAL CHARACTER]*
 
